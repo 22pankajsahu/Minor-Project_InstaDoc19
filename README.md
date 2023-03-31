@@ -38,12 +38,14 @@ There will be some kind of users as mentioned below:
 3.	Admin: It will handle the load on the site or maintain the logging things and analysis stuff.
 
 # TECHNOLOGIES:
+
 #  Back-end:
 1.	PHP (v 5.6): This language is used in the majority in our project. This will capture the user requests and query them with database.
 2.	MySQL (v 8): This will contain all the useful and related data into database to fulfill our goal.
 3.	Ajax and jQuery (v 3.5.1): This is used to handle user requests with the database without refreshing whole content of the site.
 4.	JavaScript (v ES6):  For dynamic behavior of the project, we have used JavaScript in some places. It helps in capturing user events for any DOM element.
-#Front-end:
+
+# Front-end:
 1.	Bootstrap (v 4): For responsive layout design, we have used bootstrap. It has inbuilt classes for different usability.
 2.	CSS (v 3): To change some properties of the HTML elements and display them differently, we have used CSS.
 3.	HTML (v5): To render data in web page and display them with browser property, we have used HTML.
